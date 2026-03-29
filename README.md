@@ -34,7 +34,7 @@ Use this folder for durable ADRs that fit one of the reserved architectural doma
 
 ## 2. File Roles
 
-- `adr-005-ai-agile-and-context-driven-development.md` — workflow ADR for treating documentation as operational context in AI-assisted delivery
+- [adr-005-ai-agile-and-context-driven-development.md](./adr-005-ai-agile-and-context-driven-development.md) — workflow ADR for treating documentation as operational context in AI-assisted delivery
 
 ## 3. Reserved Number Ranges
 

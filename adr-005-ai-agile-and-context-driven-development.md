@@ -286,8 +286,8 @@ If those conditions appear, refine the repository's AI-Agile rule. Do not quietl
 
 ```bash
 # AI Engineer, Gemini Apps / Gemini 3 Fast, VS Code / GPT-5.4 Medium
-git add -f docs/adr/README.md
-git add -f docs/adr/adr-005-ai-agile-and-context-driven-development.md
+git add -f ./README.md
+git add -f ./adr-005-ai-agile-and-context-driven-development.md
 git commit -m "docs(architecture: ADR): define Context-Driven Development (CDD) and AI-Augmented Agile (A3) via AI Engineer, Gemini 3 Pro, and VSC PT-5.4 Medium
 
 - add ADR-005 for treating documentation as operational context in AI-assisted delivery
@@ -297,7 +297,7 @@ git commit -m "docs(architecture: ADR): define Context-Driven Development (CDD) 
 "
 
 # Antigravity / Claude Opus 4.6 Thinking
-git add -f docs/adr/adr-005-ai-agile-and-context-driven-development.md
+git add -f ./adr-005-ai-agile-and-context-driven-development.md
 git commit -m "(architecture: ADR): add ADR-005 for AI-Agile and Context-Driven Development
 
 - document the principle that structured documentation serves as operational context in AI-assisted delivery
@@ -307,7 +307,7 @@ git commit -m "(architecture: ADR): add ADR-005 for AI-Agile and Context-Driven 
 "
 
 # AI Engineer
-git add -f docs/adr/adr-005-ai-agile-and-context-driven-development.md
+git add -f ./adr-005-ai-agile-and-context-driven-development.md
 git commit -m "docs(architecture: ADR): add ADR-005 for AI-Agile (A2) and Context-Driven Development (CDD)
 
 - clarify the roles and responsibilities of an AI engineer
